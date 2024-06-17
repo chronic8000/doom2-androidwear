@@ -12,4 +12,4 @@ Only tested with shareware wad
 * fix joystick
 * enable full screen
 
-* Video here: https://www.youtube.com/watch?v=-p55ISrAURU
+* Video here: https://www.youtube.com/watch?v=-p55ISrAURU and running on real hardware here: https://www.youtube.com/watch?v=vZ_r2l3uRDU
